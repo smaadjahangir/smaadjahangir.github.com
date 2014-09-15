@@ -1,0 +1,32 @@
+---
+layout: post
+title: Delete SSL certificates from Amazon account
+date: 2013-07-15 18:37:35.000000000 +05:00
+categories:
+- ELB
+tags: []
+status: publish
+type: post
+published: true
+meta:
+  geo_public: '0'
+  _publicize_pending: '1'
+author: 
+---
+<p>I was working on AWS ELB's and faced issue when uploading SSL certificate on ELB. Found out that by default AWS ELB can only hold 10 SSL certificates and if you exceed this value, It will throw an quota exceed error. So i have to delete few of the old to ones to continue.</p>
+<p>You cannot delete amazon SSL certificates through GUI. Amazon API tools is required for this task.</p>
+<p>Download the IAMCli utilities from amazon and untar it in /root</p>
+<p style="padding-left:30px;"><strong>export AWS_IAM_HOME=/root/IAMCli-1.2.0/</strong></p>
+<p>List the available SSL certificates in the account. (If you get Java Error then export Java Home path too)</p>
+<p style="padding-left:30px;"><strong># /root/IAMCli-1.2.0/bin/iam-servercertlistbypath&nbsp; –aws-credential-file&nbsp; /root/my-account-creds.txt</strong><br />
+<strong>arn:aws:iam::609154335954:server-certificate/answerable-com-lb-ssl-cert</strong><br />
+<strong>arn:aws:iam::609154335954:server-certificate/cdn-olokiran-certif</strong><br />
+<strong>arn:aws:iam::609154335954:server-certificate/cert</strong><br />
+<strong>arn:aws:iam::609154335954:server-certificate/dsp-olokiran-com-cert</strong><br />
+<strong>arn:aws:iam::609154335954:server-certificate/ostk-kik</strong></p>
+<p>Delete the unwanted certificate using the following command</p>
+<p style="padding-left:30px;"><strong>/root/IAMCli-1.2.0/bin/iam-servercertdel –aws-credential-file my-account-creds.txt&nbsp; -s dsp-olokiran-com-cert</strong></p>
+<p>where</p>
+<p style="padding-left:30px;"><strong># cat /root/my-account-creds.txt</strong><br />
+<strong>AWSAccessKeyId=XXXXXXXXX</strong><br />
+<strong>AWSSecretKey=xxxxxxxxxxxxxxxxxxxxxx</strong></p>

@@ -1,0 +1,48 @@
+---
+layout: post
+title: PostgreSQL useful commands
+date: 2013-08-14 23:02:14.000000000 +05:00
+categories:
+- PostgreSQL
+tags:
+- database c
+- postgresql
+status: publish
+type: post
+published: true
+meta:
+  _publicize_pending: '1'
+  geo_public: '0'
+  _post_restored_from: a:3:{s:20:"restored_revision_id";i:22;s:16:"restored_by_user";i:37337040;s:13:"restored_time";i:1377562990;}
+author: 
+---
+<p>So i was working on PostgreSQL and collected few commands for assistance in future. This is basic commands that can help MySQL user to get started.</p>
+<p>PostgreSQL is accessible by only postgres user (by default) so you have to use sudo with every command executing from root user.</p>
+<p>&nbsp;</p>
+<p><strong>Entering PSQL prompt/Command line :</strong> sudo -u postgres psql</p>
+<p>&nbsp;</p>
+<p><strong>Get a list of databases in Postgres:</strong><br />
+From shell prompt : sudo -u postgres psql -l<br />
+From PSQL prompt : \l [Note: This is backslash followed by lower-case L]</p>
+<p>&nbsp;</p>
+<p><strong>Create a Database in PostgreSQL:</strong><br />
+From shell prompt : sudo -u postgres createdb testdb<br />
+From PSQL prompt : CREATE DATABASE testdb</p>
+<p>&nbsp;</p>
+<p><strong>Delete/Drop a Database in PostgreSQL:</strong><br />
+From shell prompt : sudo -u postgres dropdb testdb<br />
+From PSQL prompt : DROP DATABASE testdb</p>
+<p>&nbsp;</p>
+<p><strong>Backup/Dump a Database in PostgreSQL:</strong><br />
+From shell prompt : sudo -u postgres pg_dump testdb &gt; backup.out</p>
+<p>&nbsp;</p>
+<p><strong>Restore a Database in PostgreSQL:</strong><br />
+From Shell Prompt : sudo -u postgres psql -f backup.out testdb</p>
+<p>&nbsp;</p>
+<p><strong>Other usefull command from PSQL prompt:</strong><br />
+Selecting Database : \c testdb<br />
+Getting List of tables : \d OR \dt<br />
+Exiting PSQL prompt : \q<br />
+Getting Help : \? OR \h OR \h CREATE</p>
+<p>&nbsp;</p>
+<p>Hope this will help.</p>

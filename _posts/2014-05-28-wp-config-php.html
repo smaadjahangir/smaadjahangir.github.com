@@ -1,0 +1,41 @@
+---
+layout: post
+title: wp-config.php Overview / N/D yet
+date: 2014-05-28 14:33:53.000000000 +05:00
+categories: []
+tags: []
+status: private
+type: post
+published: false
+meta:
+  geo_public: '0'
+author: 
+---
+<p>1 - Bypass FTP connection information on Plugin installation or Wordpress Upgrade by adding following line in wp-config.php</p>
+<pre>define( 'FS_METHOD', 'direct');</pre>
+<p>&nbsp;</p>
+<p>2 - To troubleshoot issues we can enable Wordpress Debugging by adding following lines in WP-CONFIG.PHP</p>
+<pre>define( 'WP_DEBUG', true );
+define( 'WP_DEBUG_DISPLAY', false );
+//define( 'WP_DEBUG_DISPLAY', true );
+define( 'WP_DEBUG_LOG', true );</pre>
+<p>The above line of code will generate log file in wp-content directory of your Webroot.</p>
+<p>&nbsp;</p>
+<p>3 - Site and Wordpress URL can be changed by adding following lines in wp-config.php:</p>
+<pre>define('WP_SITEURL', 'http://www.domain.com');
+define('WP_HOME', 'http://www.domain.com');</pre>
+<p>This is useful if you are migrating your site to new URL because these lines override the value define in wp_options table. Another method is to use SERVER variable which will set these values dynamically:</p>
+<pre>define('WP_HOME', 'http://' . $_SERVER['HTTP_HOST'] );
+define('WP_SITEURL', 'http://' . $_SERVER['HTTP_HOST'] );</pre>
+<p>&nbsp;</p>
+<p>4 - PHP memory can be increased for your Wordpress application by adding following lines:</p>
+<pre>define( 'WP_MEMORY_LIMIT', '64M' );</pre>
+<p>5 - By default if we delete Post, Pages, Comments etc it is sent to Trash box where Wordpress delete them after 30 days. To change this duration you can add following line and can modify value of days as per your need. In our case we have decreased it to 15 days.</p>
+<pre>define( 'EMPTY_TRASH_DAYS', 15 );</pre>
+<p>We can disable Trash box completely by providing 0 (zero) as value in above example.</p>
+<p>&nbsp;</p>
+<p>6 - From Wordpress 3.7 Automatic Updates are introduced.By default <span style="color:#000000;">minor core releases and translation files are updated. Disable this feature by introducing following lines in wp-config.php:</span></p>
+<pre> define( 'AUTOMATIC_UPDATER_DISABLED', true );</pre>
+<p style="color:#000000;">7 - When creating or editing Post, Wordpress automatically save revisions of your post. The default value of Auto-Save interval is 60 Seconds which can be increased or decreased by adding following line:</p>
+<pre style="color:#000000;">define( 'AUTOSAVE_INTERVAL', 180 );</pre>
+<p style="color:#000000;">
