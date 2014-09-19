@@ -24,6 +24,8 @@ image:
     {{ post.content }}	 
   </div><!-- /.entry-content -->
   
+  
+  <footer>
   {% if site.reading_time %}
       <span class="entry-reading-time pull-right">
         <i class="fa fa-clock-o"></i>
@@ -31,7 +33,7 @@ image:
         Reading time ~{% if readtime <= 1 %}1 minute{% else %}{{ readtime }} minutes{% endif %}
       </span><!-- /.entry-reading-time -->
       {% endif %}
-  
+  </footer>
   <!-- <strong> <a href="http://smaadjahangir.com/elb/delete-ssl-certificates-from-amazon-account/#disqus_thread"> Comment </a> </strong> -->
 </article><!-- /.hentry -->
 {% endfor %}
