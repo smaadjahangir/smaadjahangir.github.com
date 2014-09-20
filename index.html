@@ -39,7 +39,7 @@ image:
       <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
     {% endfor %} &#149;
     
-    {% if site.disqus_shortname and post.comments %} 
+    {% if post.comments %} 
     
     <a href="{{ post.url }}#disqus_thread">Show Comments</a>
     
