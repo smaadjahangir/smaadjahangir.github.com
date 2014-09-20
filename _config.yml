@@ -41,7 +41,7 @@ links:
   - title: Pictures
     url: /pictures
     external: false
-    - title: Search
+  - title: Search
     url: /Search
     external: false
 
