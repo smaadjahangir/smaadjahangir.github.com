@@ -33,29 +33,18 @@ image:
   
 <footer> 
 	   <div class="entry-meta">
-    Posted by <span class="author">S. Maad Jahangir</span> &#149;
+  <!--  Posted by <span class="author">S. Maad Jahangir</span> &#149; -->
     Tags:
     {% for tag in page.tags %}
       <a href="/tags/{{ tag }}" title="View posts tagged with &quot;{{ tag }}&quot;">{{ tag }}</a>{% if forloop.last != true %}, {% endif %}
     {% endfor %} &#149;
     
     <!-- {% if post.comments %} 
-    
     <a href="{{ post.url }}#disqus_thread">Show Comments</a>
-    
     {% endif %} -->
     
   </div>
-<!--        <a href="http://smaadjahangir.com/elb/delete-ssl-certificates-from-amazon-account/#disqus_thread"> Comment </a> -->
-		
-	<!-- 	{% if site.disqus_shortname and post.comments %} 
-		
-		<span class="entry-comments"><a href="{{ post.url }}#disqus_thread">Comment</a></span>
-		
-		
-	<!-- 	{% endif %} -->
-		
-<!--       </span> -->
+
 </footer> 
 </article><!-- /.hentry -->
 {% endfor %}
