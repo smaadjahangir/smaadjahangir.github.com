@@ -1,6 +1,6 @@
 title:            SMJ in Action
 description:      An Effort.
-disqus_shortname: 
+disqus_shortname: smaadjahangir
 reading_time:     true
 words_per_minute: 200
 #Your site's domain goes here. Leave localhost server or blank when working locally.
@@ -13,12 +13,12 @@ owner:
   bio:            "Working as Sys Admin. Trying to explore different aspects within my field."
   email:          smaadjahangir@gmail.com
   # Social networking links used in footer. Update and remove as you like.
-  twitter:        https://twitter.com/maad_jhangir
+  twitter:        maad_jhangir
   facebook:       
   #facebook:       https://www.facebook.com/SMaadJahangir
   github:         
   stackexchange:  
-  linkedin:       http://pk.linkedin.com/pub/s-maad-jahangir/24/49b/a/
+  linkedin:       pub/s-maad-jahangir/24/49b/a/
   instagram:      
   flickr:         
   tumblr:         
