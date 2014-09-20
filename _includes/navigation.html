@@ -50,6 +50,25 @@
 				<li><a href="{{ site.url }}/tags/">All Tags</a></li>
 			</ul>
 		</li>
+		
+		<li>
+			<a href="#">Search</a>
+			<ul class="dl-submenu">
+				<li><a href="{{ site.url }}/posts/">All Posts</a></li>
+				
+				<script type="text/javascript">
+  				var GOOG_FIXURL_LANG = 'en';
+  				var GOOG_FIXURL_SITE = '{{ site.url }}'
+				</script>
+				<script type="text/javascript"
+  				src="http://linkhelp.clients.google.com/tbproxy/lh/wm/fixurl.js">
+				</script>
+				
+				
+			</ul>
+		</li>
+		
+		
 		{% for link in site.links %}<li>{% if link.external %}<a href="{{ link.url }}" target="_blank">{{ link.title }}</a>{% else %}<a href="{{ site.url }}{{ link.url }}">{{ link.title }}</a>{% endif %}</li>{% endfor %}
 	</ul><!-- /.dl-menu -->
 </nav><!-- /.dl-menuwrapper -->
