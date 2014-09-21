@@ -30,8 +30,8 @@ owner:
 background: 
 
 # Analytics and webmaster tools stuff goes here
-google_analytics:UA-55014307-1
-google_verify:FnNSv3snoTsb1RnkNyZiU8yb3DbmuswypPGM_9bDHPg
+google_analytics:	UA-55014307-1
+google_verify:
 # https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
 bing_verify:         
 
