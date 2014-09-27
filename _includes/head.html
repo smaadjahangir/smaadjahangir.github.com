@@ -67,3 +67,13 @@
 {% unless background contains 'http://' or background contains 'https://' %}{% capture background %}{{ site.url }}/images/{{ background }}{% endcapture %}{% endunless %}
 <style type="text/css">body {background-image:url({{ background }});}</style>
 {% endif %}
+
+
+<div id="container">
+	<video autoplay loop muted>
+		<source src="flip.mp4" type="video/mp4">
+	</video>
+	<div class="content">
+		
+	</div>
+</div>
