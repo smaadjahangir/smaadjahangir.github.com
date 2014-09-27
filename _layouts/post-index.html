@@ -12,6 +12,17 @@
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
+#container {
+	position: relative;
+	overflow: hidden;
+}
+
+#container .content {
+	position: absolute;
+	top: 0;
+	left: 0;
+}
+
 <div id="container">
 	<video autoplay loop muted>
 		<source src="{{ site.url }}/images/flip.mp4" type="video/mp4">
