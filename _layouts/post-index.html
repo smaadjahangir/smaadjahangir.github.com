@@ -12,25 +12,6 @@
 {% include browser-upgrade.html %}
 {% include navigation.html %}
 
-#container {
-	position: relative;
-	overflow: hidden;
-}
-
-#container .content {
-	position: absolute;
-	top: 0;
-	left: 0;
-}
-
-<div id="container">
-	<video autoplay loop muted>
-		<source src="{{ site.url }}/images/flip.mp4" type="video/mp4">
-	</video>
-	<div class="content">
-		
-	</div>
-</div>
 
 <div class="entry-header">
   {% if page.image.credit %}<div class="image-credit">Image source: <a href="{{ page.image.creditlink }}">{{ page.image.credit }}</a></div><!-- /.image-credit -->{% endif %}
@@ -58,6 +39,16 @@
 </div><!-- /.footer-wrapper -->
 
 {% include scripts.html %}          
+
+<div id="container">
+	<video autoplay loop muted>
+		<source src="{{ site.url }}/images/flip.mp4" type="video/mp4">
+	</video>
+	<div class="content">
+		
+	</div>
+</div>
+
 
 </body>
 </html>
