@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+<title type="text">SMJ in Action</title>
+<generator uri="https://github.com/mojombo/jekyll">Jekyll</generator>
+<link rel="self" type="application/atom+xml" href="http://localhost:4000/feed.xml" />
+<link rel="alternate" type="text/html" href="http://localhost:4000" />
+<updated>2014-09-15T07:52:33-04:00</updated>
+<id>http://localhost:4000/</id>
+<author>
+  <name>S. Maad Jahangir</name>
+  <uri>http://localhost:4000/</uri>
+  <email>smaadjahangir@gmail.com</email>
+</author>
+
+
+<entry>
+  <title type="html"><![CDATA[Under Construction.]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/background-image/" />
+  <id>http://localhost:4000/background-image</id>
+  <published>2013-10-26T00:00:00-04:00</published>
+  <updated>2013-10-26T00:00:00-04:00</updated>
+  <author>
+    <name>S. Maad Jahangir</name>
+    <uri>http://localhost:4000</uri>
+    <email>smaadjahangir@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Under Construction.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/background-image/&quot;&gt;Under Construction.&lt;/a&gt; was originally published by S. Maad Jahangir at &lt;a href=&quot;http://localhost:4000&quot;&gt;SMJ in Action&lt;/a&gt; on October 26, 2013.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Under Construction.]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/readability-post/" />
+  <id>http://localhost:4000/readability-post</id>
+  <published>2012-05-22T00:00:00-04:00</published>
+  <updated>2012-05-22T00:00:00-04:00</updated>
+  <author>
+    <name>S. Maad Jahangir</name>
+    <uri>http://localhost:4000</uri>
+    <email>smaadjahangir@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Under Construction.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/readability-post/&quot;&gt;Under Construction.&lt;/a&gt; was originally published by S. Maad Jahangir at &lt;a href=&quot;http://localhost:4000&quot;&gt;SMJ in Action&lt;/a&gt; on May 22, 2012.&lt;/p&gt;</content>
+</entry>
+
+
+<entry>
+  <title type="html"><![CDATA[Sample Post]]></title>
+ <link rel="alternate" type="text/html" href="http://localhost:4000/sample-post/" />
+  <id>http://localhost:4000/sample-post</id>
+  <updated>2013-05-31T00:00:00-00:00</updated>
+  <published>2011-03-10T00:00:00-05:00</published>
+  
+  <author>
+    <name>S. Maad Jahangir</name>
+    <uri>http://localhost:4000</uri>
+    <email>smaadjahangir@gmail.com</email>
+  </author>
+  <content type="html">&lt;p&gt;Under Construction.&lt;/p&gt;
+
+  &lt;p&gt;&lt;a href=&quot;http://localhost:4000/sample-post/&quot;&gt;Sample Post&lt;/a&gt; was originally published by S. Maad Jahangir at &lt;a href=&quot;http://localhost:4000&quot;&gt;SMJ in Action&lt;/a&gt; on March 10, 2011.&lt;/p&gt;</content>
+</entry>
+
+</feed>
