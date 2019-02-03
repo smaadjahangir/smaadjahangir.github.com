@@ -1,0 +1,96 @@
+body {color:#606060;}
+
+.fc0 {color:#000 !important;}
+.fc1 {color:#FFF !important;}
+
+.bgc0 {background-color:#000000 !important;}
+.bgc1 {background-color:#FFFFFF !important;}
+
+.fs10 {font-size:10px !important;}
+.fs12 {font-size:12px !important;}
+.fs14 {font-size:14px !important;}
+.fs18 {font-size:18px !important;}
+.fs24 {font-size:24px !important; line-height:28px;}
+.fs48 {font-size:32px !important; line-height:50px;}
+
+.bg-1 {background-color:#4F4F4F; padding-bottom:110px; color:#CCC;}
+.bg-1 .card .card-body h2 a, .bg-1 .card .card-body h6 a {text-shadow:2px 2px 4px rgba(0, 0, 0, 0.29); color:#FFF;}
+.bg-1 .card .card-body h2 a:hover, .bg-1 .card .card-body h6 a:hover {text-decoration:none; color:#17A2B8;}
+
+.profile-img {position:relative;}
+.profile-img img {position:absolute; z-index:9; left:0; right:0; margin:auto}
+
+.card-shodow {box-shadow:0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);}
+.social-media {margin-top:20px; text-align:center;}
+.social-media a {display:inline-block; width:37px; height:37px; line-height:37px; padding:0; border-radius:50%; text-align:center; background:#17A2B8; color:#FFF;}
+.social-media a:hover {color:#222;}
+
+#timeline-experience{position:relative;}
+#timeline-experience::before{content:'';position:absolute;top:0;bottom:23px;left:50%;height:99.5%;width:4px;opacity:0.3;background:#06A763;}
+.timeline-block{position:relative;}
+.timeline-block::after{clear:both;content:"";display:table;}
+.timeline-block:first-child{margin-top:0;}
+.timeline-block:last-child{margin-bottom:0;}
+.timeline-block .card-content{padding:20px;}
+.timeline-block .card-content p{margin-top:13px;text-align:left;}
+.timeline-block .card-content .modal-dot{outline:0;font-size:20px;}
+.timeline-block .card-content .modal-dot:hover, .timeline-block .card-content .modal-dot:focus{color:#12579b;}
+.timeline-block .timeline-dot{background:#17A2B8;width:50px;height:50px;border-radius:100%;box-shadow:0 2px 5px 0 rgba(0, 0, 0, 0.16), 0 2px 10px 0 rgba(0, 0, 0, 0.12);z-index:2;color:#fff;text-align:center;position:absolute;top:5px;right:2%;}
+.timeline-block .timeline-dot i{text-align:center;font-size:24px;margin-top:26%;text-shadow:2px 2px 4px rgba(0, 0, 0, 0.29);}
+.timeline-block .timeline-dot h6{padding:0;font-size:30px;font-weight:bold;margin-top:8px;text-shadow:2px 2px 4px rgba(0, 0, 0, 0.29);}
+.timeline-block .timeline-content{position:relative;background:#fff;margin-right:0;z-index:1;margin-bottom:5px;border-left:5px solid #17A2B8;}
+.timeline-block .timeline-content::before{content:'';width:58px;height:4px;position:absolute;top:26px;left:100%;z-index:-2;opacity:0.4;background:#17A2B8;}
+.timeline-block .timeline-content::after{clear:both;content:"";display:table;}
+.timeline-block .timeline-content .timeline-title{max-width:84%;font-weight:normal;}
+.timeline-block .timeline-content .timeline-info{}
+.timeline-block .timeline-content .timeline-info h6{line-height:12px;}
+.timeline-block .timeline-content .timeline-info h6 small{color:inherit;}
+@media screen and (max-width:768px){.timeline-block .timeline-content:before{display:none;}
+}
+@media only screen and (min-width:768px){
+#timeline-experience::before{left:50%;margin-left:-2px;height:69.1%;opacity:0.4;background:#17A2B8;}
+.timeline-block{margin:-5em 0;}
+.timeline-block .card{margin:0;}
+.timeline-block .timeline-dot{width:50px;height:50px;left:50%;top:0;z-index:2;margin-left:-24px;-webkit-transform:translateZ(0);-webkit-backface-visibility:hidden;}
+.timeline-block .timeline-content{width:44%;}
+.timeline-block .timeline-content .timeline-title{max-width:100%;}
+.timeline-block:nth-child(even) .timeline-content{float:right;}
+.timeline-block:nth-child(even) .timeline-content::before{top:25px;left:auto;right:101.2%;z-index:-2;}
+}
+
+/*sm & higher*/
+@media (min-width: 768px){
+}
+
+/*md & higher*/
+@media (min-width: 992px){
+}
+
+/*md & lesser*/
+@media (max-width: 1199px){
+}
+
+/*sm & lesser*/
+@media (max-width: 991px){
+}
+
+/*only lg*/
+@media (min-width: 1200px){		
+}
+
+/* only md*/
+@media (min-width: 992px) and (max-width: 1199px){	
+}
+
+/* only sm*/
+@media (min-width: 768px) and (max-width: 991px){	
+}
+
+/* only xs*/
+@media (max-width: 767px){
+	
+}
+/* only xxs*/
+@media (max-width: 420px){
+
+}
