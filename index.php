@@ -87,7 +87,7 @@
           </p>
         </div>
         <div class="col-lg-2">
-          <div class="text-lg-right"><span class="badge badge-info">Mar 2017 - Present</span></div>
+          <div class="text-lg-right"><span class="badge badge-info">Feb 2018 - Present</span></div>
         </div>  
       </div>
       <div class="row">
@@ -112,7 +112,7 @@
           </p>
         </div>
         <div class="col-lg-2">
-          <div class="text-lg-right"><span class="badge badge-info">Mar 2017 - Present</span></div>
+          <div class="text-lg-right"><span class="badge badge-info">Mar 2017 - Jan 2018</span></div>
         </div>  
       </div>
       <div class="row">
