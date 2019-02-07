@@ -93,14 +93,15 @@
       <div class="row">
         <div class="col-12">
          <ul class="fs14 mb-5">
-           <li>Running team day to day and meeting weekly, quarterly goals. </li>
+           <li>Leading day to day team meetings and organizing weekly and quarterly goals. </li>
            <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team’s output.</li>
-           <li>Maintaining and improving Monitoring Key Metrics and trends. </li>
-           <li>Net Promotor score (NPS) and Followups.</li>
-           <li>Analysing frequent Monitoring requests and Automating them.</li>
+           <li>Maintaining and improving KPIs and trends. </li>
+           <li>Net Promotor score (NPS) and Followups. </li>
+           <li>Frequently Analysing and Monitoring requests then work on Automating them. </li>
            <li>Maitaining and improving FTAR. </li>
-           <li>Automation of Monitoring to minimize and reduce the time between request and implementation. </li>
-           <li>Continious improvement of Monitoring stack to support different product more effienciently. </li>
+           <li>Implement monitoring automation in order to reduce the time between request and implementation. </li>
+           <li>Continious improvement of Monitoring stack to support different product more efficiently.
+           </li>
           </ul>
         </div>
       </div>
