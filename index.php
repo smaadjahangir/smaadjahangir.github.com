@@ -145,7 +145,7 @@
       <div class="row">
         <div class="col-12">
          <ul class="fs14 mb-5">
-           <li>Working on deploying new monitoring stack on all the products under Aurea's umbrella.</li>
+           <li>Working on deploying new monitoring stack on all the products under ESW's umbrella.</li>
            <li>Deploying monitoring stack consist of Prometheus, Telegraf and Grafana.</li>
            <li>Working on log monitoring by using ELK stack with filebeats.</li>
            <li>Analyzing custom requirements of products and providing solutions.</li>
