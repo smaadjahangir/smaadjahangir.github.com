@@ -68,7 +68,7 @@
           <p class="fs14 mb-0">Apache, Nginx, Varnish, IIS, HHVM, NodeJS, Passenger, Unicorn, HAproxy, Pound, Memcached, PHP-fpm, PHP7.</p>
           <p class="fs14 mb-0">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit.</p>
           <p class="fs14 mb-0">MySQL, MariaDB, Mysql Percona, MongoDB, PostgreSQL.</p>
-          <p class="fs14 mb-0">OpenSSH, MySecureShell, proftpd, Shorewall, OpenVPN, L2TP/IPSec, Postfix, Rsnapshot, Duplicity.</p>
+          <p class="fs14 mb-0">OpenSSH, MySecureShell, proftpd, Shorewall, OpenVPN, L2TP/IPSec, Postfix, Rsnapshot, PagerDuty, Duplicity.</p>
           <p class="fs14 mb-0">Vmware ESX Server 4.1, Dockers, Vagrant, SharePoint, WSS 3.0.</p>
         </div>
       </div>
