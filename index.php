@@ -28,7 +28,7 @@
         <div class="col-lg-6 col-xl-6">
           <div class="text-center text-lg-left">
             <h2><a class="text-dark" href="#">Syed Maad Jahangir</a></h2>
-            <h6 class="text-muted"><a class="text-muted" href="#">SEM</a> / Chief Architect / DevOps Engineer</h6>          </div>
+            <h6 class="text-muted"><a class="text-muted" href="#"></a>SEM / Chief Architect / DevOps Engineer</h6>          </div>
         </div>
         <div class="col-lg-4 col-xl-3 ml-auto">
           <div class="fs14 text-center text-lg-left">
