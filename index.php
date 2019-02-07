@@ -3,7 +3,7 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="DevOps Engineer Resume">
+    <meta name="description" content="SEM / Chief Architect / DevOps Engineer Resume">
     <meta name="author" content="CXM">
     <link rel="icon" href="media/favicon.ico">
     <title>Syed Maad Jahangir, SEM / Chief Architect / DevOps Engineer Resume</title>
