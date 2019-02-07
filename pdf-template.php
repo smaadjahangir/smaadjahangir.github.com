@@ -59,21 +59,22 @@
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">SEM</h4>
-        <p class="para1">Aurea Software, Austin, United States<br>
-        <span class="fc1">Business Solution Providers</span></p>
+        <p class="para1">ESW Capital, Austin, United States<br>
+        <span class="fc1">Venture Capital & Private Equity</span></p>
       </td>
-      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Mar 2017 - Present </span></td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Feb 2018 - Present </span></td>
     </tr>
     <tr>
       <td colspan="2" style="width:100%;">
         <ul class="list1">
-          <li>Designing and Implementing new Monitoring Stack which is Central Monitoring hub for all products. </li>
-          <li>Supporting Old Monitoring Stack as per the requirements from different teams.</li>
-          <li>Leading team of Engineers in Achieving the designed roadmap. </li>
-          <li>Working on Zabbix with combination of Grafana to give teams insight of the product.</li>
-          <li>Building a sophisticated solution to get AWS Cloudwatch stats to Zabbix.</li>
-          <li>Delegating tasks to the team and assisting them in completing those tasks. </li>
-          <li>Developing a complex monitoring solution for database which supports MSSQL, MySQL, Postgres and Oracle. The solution works with queries that are provided to it. </li>
+          <li>Leading day to day team meetings and organizing weekly and quarterly goals. </li>
+          <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team’s output. </li>
+          <li>Maintaining and improving KPIs and trends. </li>
+          <li>Net Promoter score (NPS) and Followups. </li>
+          <li>Frequently Analysing and Monitoring requests then work on Automating them. </li>
+          <li>Maintaining and improving FTAR. </li>
+          <li>Implement monitoring automation in order to reduce the time between request and implementation. </li>
+          <li>Continuous improvement of Monitoring stack to support different product more efficiently. </li>
         </ul>
       </td>
     </tr>    
