@@ -64,7 +64,7 @@
       <div class="row">
         <div class="col-lg-2"><span class="badge badge-danger">Technologies</span></div>
         <div class="col-lg-10">
-          <p class="fs14 mb-0">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autosacling, RDS, Route53, S3, CloudFront, VPC, EFS, SES.</p>
+          <p class="fs14 mb-0">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autoscaling, RDS, Route53, S3, CloudFront, VPC, EFS, SES.</p>
           <p class="fs14 mb-0">Apache, Nginx, Varnish, IIS, HHVM, NodeJS, Passenger, Unicorn, HAproxy, Pound, Memcached, PHP-fpm, PHP7.</p>
           <p class="fs14 mb-0">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit.</p>
           <p class="fs14 mb-0">MySQL, MariaDB, Mysql Percona, MongoDB, PostgreSQL.</p>
