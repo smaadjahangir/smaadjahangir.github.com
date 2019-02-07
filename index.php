@@ -96,7 +96,7 @@
            <li>Leading day to day team meetings and organizing weekly and quarterly goals. </li>
            <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team’s output.</li>
            <li>Maintaining and improving KPIs and trends. </li>
-           <li>Net Promotor score (NPS) and Followups. </li>
+           <li>Net Promoter score (NPS) and Followups. </li>
            <li>Frequently Analysing and Monitoring requests then work on Automating them. </li>
            <li>Maintaining and improving FTAR. </li>
            <li>Implement monitoring automation in order to reduce the time between request and implementation. </li>
