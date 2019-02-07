@@ -58,6 +58,27 @@
   <table style="width:100%;">
     <tr>
       <td style="width:70%;">
+        <h4 style="line-height:20px; margin:0px;">SEM</h4>
+        <p class="para1">Aurea Software, Austin, United States<br>
+        <span class="fc1">Business Solution Providers</span></p>
+      </td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Mar 2017 - Present </span></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width:100%;">
+        <ul class="list1">
+          <li>Designing and Implementing new Monitoring Stack which is Central Monitoring hub for all products. </li>
+          <li>Supporting Old Monitoring Stack as per the requirements from different teams.</li>
+          <li>Leading team of Engineers in Achieving the designed roadmap. </li>
+          <li>Working on Zabbix with combination of Grafana to give teams insight of the product.</li>
+          <li>Building a sophisticated solution to get AWS Cloudwatch stats to Zabbix.</li>
+          <li>Delegating tasks to the team and assisting them in completing those tasks. </li>
+          <li>Developing a complex monitoring solution for database which supports MSSQL, MySQL, Postgres and Oracle. The solution works with queries that are provided to it. </li>
+        </ul>
+      </td>
+    </tr>    
+    <tr>
+      <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Chief Architect</h4>
         <p class="para1">Aurea Software, Austin, United States<br>
         <span class="fc1">Business Solution Providers</span></p>
