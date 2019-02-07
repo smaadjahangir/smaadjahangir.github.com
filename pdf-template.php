@@ -11,7 +11,7 @@
     <tr>
       <td style="width:68%;">
         <h2 style="line-height:20px; margin-bottom:0px;">Syed Maad Jahangir</h2>
-        <p>Chief Architect / DevOps Engineer</p>
+        <p>SEM / Chief Architect / DevOps Engineer</p>
       </td>    
       <td style="width:32%; vertical-align:top;">
         <span class="fc1">a:</span> Karachi, Sindh, Pakistan<br />
@@ -41,11 +41,11 @@
     <tr>
       <td style="width:30%; padding:2px; vertical-align:top;"><span class="badge"> Technologies </span></td>
       <td style="width:70%; padding:2px;">
-        <p class="para1">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autosacling, RDS, Route53, S3, CloudFront, VPC, EFS, SES.</p>
+        <p class="para1">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autoscaling, RDS, Route53, S3, CloudFront, VPC, EFS, SES.</p>
         <p class="para1">Apache, Nginx, Varnish, IIS, HHVM, NodeJS, Passenger, Unicorn, HAproxy, Pound, Memcached, PHP-fpm, PHP7.</p>
         <p class="para1">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit.</p>
         <p class="para1">MySQL, MariaDB, Mysql Percona, MongoDB, PostgreSQL.</p>
-        <p class="para1">OpenSSH, MySecureShell, proftpd, Shorewall, OpenVPN, L2TP/IPSec, Postfix, Rsnapshot, Duplicity.</p>
+        <p class="para1">OpenSSH, MySecureShell, proftpd, Shorewall, OpenVPN, L2TP/IPSec, Postfix, Rsnapshot, PagerDuty, Duplicity.</p>
         <p class="para1">Vmware ESX Server 4.1, Dockers, Vagrant, SharePoint, WSS 3.0.</p>
       </td>
     </tr>
