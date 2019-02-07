@@ -98,9 +98,9 @@
            <li>Maintaining and improving KPIs and trends. </li>
            <li>Net Promotor score (NPS) and Followups. </li>
            <li>Frequently Analysing and Monitoring requests then work on Automating them. </li>
-           <li>Maitaining and improving FTAR. </li>
+           <li>Maintaining and improving FTAR. </li>
            <li>Implement monitoring automation in order to reduce the time between request and implementation. </li>
-           <li>Continious improvement of Monitoring stack to support different product more efficiently.
+           <li>Continuous improvement of Monitoring stack to support different product more efficiently.
            </li>
           </ul>
         </div>
