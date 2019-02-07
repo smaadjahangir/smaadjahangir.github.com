@@ -81,6 +81,31 @@
       <h3 class="pt-5 pb-3">Professional Experience</h3> 
       <div class="row">
         <div class="col-lg-10">
+          <h5>SEM</h5>
+          <p class="fs14"><a href="http://www.aurea.com/" target="_blank">Aurea Software</a>, Austin, United States<br>
+          <span class=" text-muted">Business Solution Providers</span>
+          </p>
+        </div>
+        <div class="col-lg-2">
+          <div class="text-lg-right"><span class="badge badge-info">Mar 2017 - Present</span></div>
+        </div>  
+      </div>
+      <div class="row">
+        <div class="col-12">
+         <ul class="fs14 mb-5">
+           <li>Designing and Implementing new Monitoring Stack which is Central Monitoring hub for all products. </li>
+           <li>Supporting Old Monitoring Stack as per the requirements from different teams.</li>
+           <li>Leading team of Engineers in Achieving the designed roadmap. </li>
+           <li>Working on Zabbix with combination of Grafana to give teams insight of the product.</li>
+           <li>Building a sophisticated solution to get AWS Cloudwatch stats to Zabbix.</li>
+           <li>Delegating tasks to the team and assisting them in completing those tasks. </li>
+           <li>SEM. </li>
+          </ul>
+        </div>
+      </div>
+      
+      <div class="row">
+        <div class="col-lg-10">
           <h5>Chief Architect</h5>
           <p class="fs14"><a href="http://www.aurea.com/" target="_blank">Aurea Software</a>, Austin, United States<br>
           <span class=" text-muted">Business Solution Providers</span>
