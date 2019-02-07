@@ -6,7 +6,7 @@
     <meta name="description" content="DevOps Engineer Resume">
     <meta name="author" content="CXM">
     <link rel="icon" href="media/favicon.ico">
-    <title>Syed Maad Jahangir, Chief Architect / DevOps Engineer Resume</title>
+    <title>Syed Maad Jahangir, SEM / Chief Architect / DevOps Engineer Resume</title>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/common.css" rel="stylesheet">   
@@ -28,7 +28,7 @@
         <div class="col-lg-6 col-xl-6">
           <div class="text-center text-lg-left">
             <h2><a class="text-dark" href="#">Syed Maad Jahangir</a></h2>
-            <h6 class="text-muted"><a class="text-muted" href="#">SEM</a> / Chief Architect</a> / DevOps Engineer</h6>          </div>
+            <h6 class="text-muted"><a class="text-muted" href="#">SEM / Chief Architect</a> / DevOps Engineer</h6>          </div>
         </div>
         <div class="col-lg-4 col-xl-3 ml-auto">
           <div class="fs14 text-center text-lg-left">
