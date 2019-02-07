@@ -81,7 +81,7 @@
       <h3 class="pt-5 pb-3">Professional Experience</h3> 
       <div class="row">
         <div class="col-lg-10">
-          <h5>SEM</h5>
+          <h5>Software Engineering Manager</h5>
           <p class="fs14"><a href="http://www.eswcapital.com/" target="_blank">ESW Capital</a>, Austin, United States<br>
           <span class=" text-muted">Venture Capital & Private Equity</span>
           </p>
@@ -93,13 +93,14 @@
       <div class="row">
         <div class="col-12">
          <ul class="fs14 mb-5">
-           <li>Designing and Implementing new Monitoring Stack which is Central Monitoring hub for all products. </li>
-           <li>Supporting Old Monitoring Stack as per the requirements from different teams.</li>
-           <li>Leading team of Engineers in Achieving the designed roadmap. </li>
-           <li>Working on Zabbix with combination of Grafana to give teams insight of the product.</li>
-           <li>Building a sophisticated solution to get AWS Cloudwatch stats to Zabbix.</li>
-           <li>Delegating tasks to the team and assisting them in completing those tasks. </li>
-           <li>SEM. </li>
+           <li>Running team day to day and meeting weekly, quarterly goals. </li>
+           <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team’s output.</li>
+           <li>Maintaining and improving Monitoring Key Metrics and trends. </li>
+           <li>Net Promotor score (NPS) and Followups.</li>
+           <li>Analysing frequent Monitoring requests and Automating them.</li>
+           <li>Maitaining and improving FTAR. </li>
+           <li>Automation of Monitoring to minimize and reduce the time between request and implementation. </li>
+           <li>Continious improvement of Monitoring stack to support different product more effienciently. </li>
           </ul>
         </div>
       </div>
