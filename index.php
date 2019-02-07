@@ -83,7 +83,7 @@
         <div class="col-lg-10">
           <h5>SEM</h5>
           <p class="fs14"><a href="http://www.eswcapital.com/" target="_blank">ESW Capital</a>, Austin, United States<br>
-          <span class=" text-muted">Business Solution Providers</span>
+          <span class=" text-muted">Venture Capital & Private Equity</span>
           </p>
         </div>
         <div class="col-lg-2">
@@ -108,7 +108,7 @@
         <div class="col-lg-10">
           <h5>Chief Architect</h5>
           <p class="fs14"><a href="http://www.eswcapital.com/" target="_blank">ESW Capital</a>, Austin, United States<br>
-          <span class=" text-muted">Business Solution Providers</span>
+          <span class=" text-muted">Venture Capital & Private Equity</span>
           </p>
         </div>
         <div class="col-lg-2">
@@ -133,7 +133,7 @@
         <div class="col-lg-10">
           <h5>DevOps Engineer</h5>
           <p class="fs14"><a href="http://www.eswcapital.com/" target="_blank">ESW Capital</a>, Austin, United States<br>
-          <span class=" text-muted">Business Solution Providers</span>
+          <span class=" text-muted">Venture Capital & Private Equity</span>
           </p>
         </div>
         <div class="col-lg-2">
