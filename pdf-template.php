@@ -58,7 +58,7 @@
   <table style="width:100%;">
     <tr>
       <td style="width:70%;">
-        <h4 style="line-height:20px; margin:0px;">SEM</h4>
+        <h4 style="line-height:20px; margin:0px;">Software Engineering Manager</h4>
         <p class="para1">ESW Capital, Austin, United States<br>
         <span class="fc1">Venture Capital & Private Equity</span></p>
       </td>
@@ -81,10 +81,10 @@
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Chief Architect</h4>
-        <p class="para1">Aurea Software, Austin, United States<br>
-        <span class="fc1">Business Solution Providers</span></p>
+        <p class="para1">ESW Capital, Austin, United States<br>
+        <span class="fc1">Venture Capital & Private Equity</span></p>
       </td>
-      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Mar 2017 - Present </span></td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Mar 2017 - Jan 2018 </span></td>
     </tr>
     <tr>
       <td colspan="2" style="width:100%;">
@@ -102,15 +102,15 @@
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">DevOps Engineer</h4>
-        <p class="para1">Aurea Software, Austin, United States<br>
-        <span class="fc1">Business Solution Providers</span></p>
+        <p class="para1">ESW Capital, Austin, United States<br>
+        <span class="fc1">Venture Capital & Private Equity</span></p>
       </td>
       <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Oct 2016 - Feb 2017 </span></td>
     </tr>
     <tr>
       <td colspan="2" style="width:100%;">
         <ul class="list1">
-          <li>Working on deploying new monitoring stack on all the products under Aurea's umbrella.</li>
+          <li>Working on deploying new monitoring stack on all the products under ESW's umbrella.</li>
           <li>Deploying monitoring stack consist of Prometheus, Telegraf and Grafana.</li>
           <li>Working on log monitoring by using ELK stack with filebeats.</li>
           <li>Analyzing custom requirements of products and providing solutions.</li>
