@@ -3,10 +3,10 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-    <meta name="description" content="SEM / Chief Architect / DevOps Engineer Resume">
+    <meta name="description" content="SEM / Chief Architect / DevOps Engineer / Senior Infrastructure Engineer Resume">
     <meta name="author" content="CXM">
     <link rel="icon" href="media/favicon.ico">
-    <title>Syed Maad Jahangir, SEM / Chief Architect / DevOps Engineer Resume</title>
+    <title>Syed Maad Jahangir, SEM / Chief Architect / DevOps Engineer / Senior Infrastructure Engineer Resume</title>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet">
     <link href="css/bootstrap.min.css" rel="stylesheet">
     <link href="css/common.css" rel="stylesheet">   
@@ -28,7 +28,7 @@
         <div class="col-lg-6 col-xl-6">
           <div class="text-center text-lg-left">
             <h2><a class="text-dark" href="#">Syed Maad Jahangir</a></h2>
-            <h6 class="text-muted"><a class="text-muted" href="#"></a>SEM / Chief Architect / DevOps Engineer</h6>          </div>
+            <h6 class="text-muted"><a class="text-muted" href="#"></a>SEM / Chief Architect / DevOps Engineer / Senior Infrastructure Engineer</h6>          </div>
         </div>
         <div class="col-lg-4 col-xl-3 ml-auto">
           <div class="fs14 text-center text-lg-left">
@@ -81,20 +81,43 @@
       <h3 class="pt-5 pb-3">Professional Experience</h3> 
       <div class="row">
         <div class="col-lg-10">
+          <h5>Senior Infrastructure Engineer</h5>
+          <p class="fs14"><a href="https://www.heyjobs.co/" target="_blank">HeyJobs</a>, Berlin, Germany<br>
+          <span class=" text-muted">Internet</span>
+          </p>
+        </div>
+        <div class="col-lg-2">
+          <div class="text-lg-right"><span class="badge badge-info">Aug 2019 - Present</span></div>
+        </div>  
+      </div>
+      <div class="row">
+        <div class="col-12">
+         <ul class="fs14 mb-5">
+           <li>Building Structure and Process around the Team</li>
+           <li>Creating and Aligning Team's OKR with the Company</li>
+           <li>Analyzing and Improving Infrastructure and Automation</li>
+           <li>Providing Support to Internal Teams and Products</li>
+           </li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="row">
+        <div class="col-lg-10">
           <h5>Software Engineering Manager</h5>
           <p class="fs14"><a href="http://www.eswcapital.com/" target="_blank">ESW Capital</a>, Austin, United States<br>
           <span class=" text-muted">Venture Capital & Private Equity</span>
           </p>
         </div>
         <div class="col-lg-2">
-          <div class="text-lg-right"><span class="badge badge-info">Feb 2018 - Present</span></div>
-        </div>  
+          <div class="text-lg-right"><span class="badge badge-info">Feb 2018 - Feb 2019 </span></div>
+        </div>
       </div>
       <div class="row">
         <div class="col-12">
          <ul class="fs14 mb-5">
            <li>Leading day to day team meetings and organizing weekly and quarterly goals. </li>
-           <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team’s output.</li>
+           <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team's output.</li>
            <li>Maintaining and improving KPIs and trends. </li>
            <li>Net Promoter score (NPS) and Followups. </li>
            <li>Frequently Analysing and Monitoring requests then work on Automating them. </li>
@@ -105,6 +128,7 @@
           </ul>
         </div>
       </div>
+
       
       <div class="row">
         <div class="col-lg-10">

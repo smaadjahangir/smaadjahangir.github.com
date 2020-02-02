@@ -11,7 +11,7 @@
     <tr>
       <td style="width:68%;">
         <h2 style="line-height:20px; margin-bottom:0px;">Syed Maad Jahangir</h2>
-        <p>SEM / Chief Architect / DevOps Engineer</p>
+        <p>SEM / Chief Architect / DevOps Engineer / Senior Infrastructure Engineer</p>
       </td>    
       <td style="width:32%; vertical-align:top;">
         <span class="fc1">a:</span> Karachi, Sindh, Pakistan<br />
@@ -58,17 +58,35 @@
   <table style="width:100%;">
     <tr>
       <td style="width:70%;">
+        <h4 style="line-height:20px; margin:0px;">Senior Infrastructure Engineer</h4>
+        <p class="para1">HeyJobs, Berlin, Germany<br>
+        <span class="fc1">Internet</span></p>
+      </td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Aug 2019 - Present </span></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width:100%;">
+        <ul class="list1">
+           <li>Building Structure and Process around the Team</li>
+           <li>Creating and Aligning Team's OKR with the Company</li>
+           <li>Analyzing and Improving Infrastructure and Automation</li>
+           <li>Providing Support to Internal Teams and Products</li>
+        </ul>
+      </td>
+    </tr>    
+    <tr>
+      <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Software Engineering Manager</h4>
         <p class="para1">ESW Capital, Austin, United States<br>
         <span class="fc1">Venture Capital & Private Equity</span></p>
       </td>
-      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Feb 2018 - Present </span></td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Feb 2018 - Feb 2019 </span></td>
     </tr>
     <tr>
       <td colspan="2" style="width:100%;">
         <ul class="list1">
           <li>Leading day to day team meetings and organizing weekly and quarterly goals. </li>
-          <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team’s output. </li>
+          <li>Defining, Optimizing & implementing processes and best practices for continuous improvement of the team's output. </li>
           <li>Maintaining and improving KPIs and trends. </li>
           <li>Net Promoter score (NPS) and Followups. </li>
           <li>Frequently Analysing and Monitoring requests then work on Automating them. </li>
@@ -77,7 +95,7 @@
           <li>Continuous improvement of Monitoring stack to support different product more efficiently. </li>
         </ul>
       </td>
-    </tr>    
+    </tr>
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Chief Architect</h4>
