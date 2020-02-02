@@ -14,12 +14,12 @@
         <p>SEM / Chief Architect / DevOps Engineer / Senior Infrastructure Engineer</p>
       </td>    
       <td style="width:32%; vertical-align:top;">
-        <span class="fc1">a:</span> Karachi, Sindh, Pakistan<br />
+        <span class="fc1">a:</span> Berlin, Germany<br />
         <span class="fc1">e:</span> smaadjahangir@gmail.com<br />
         <span class="fc1">w:</span> http://www.smaadjahangir.com<br />
         <span class="fc1">i:</span> http://linkedin.com/in/smaadjahangir<br />
         <span class="fc1">s:</span> smaadjahangir<br />
-        <span class="fc1">n:</span> +923453022296<br />
+        <span class="fc1">n:</span> +4917689223789<br />
       </td>
     </tr>
   </table>

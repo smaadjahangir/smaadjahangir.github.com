@@ -32,12 +32,12 @@
         </div>
         <div class="col-lg-4 col-xl-3 ml-auto">
           <div class="fs14 text-center text-lg-left">
-            <p class="mb-0"><span class="ff1 text-muted">a:</span> <span itemprop="locality">Karachi</span>, <span itemprop="region">Sindh</span>, <span itemprop="country-name">Pakistan</span></p>
+            <p class="mb-0"><span class="ff1 text-muted">a:</span> <span itemprop="locality">Berlin</span>, <span itemprop="country-name">Germany</span></p>
             <p class="mb-0"><span class="ff1 text-muted">e:</span> <a href="mailto:smaadjahangir@gmail.com">smaadjahangir@gmail.com</a></p>
             <p class="mb-0"><span class="ff1 text-muted">w:</span> <a href="http://smaadjahangir.com">http://www.smaadjahangir.com</a></p>
             <p class="mb-0"><span class="ff1 text-muted">i:</span> <a href="http://linkedin.com/in/smaadjahangir" target="_blank">http://linkedin.com/in/smaadjahangir</a></p>
             <p class="mb-0"><span class="ff1 text-muted">s:</span> <a href="skype:smaadjahangir?call" target="_blank">smaadjahangir</a></p>
-            <p class="mb-0"><span class="ff1 text-muted">n:</span> +923453022296</p>
+            <p class="mb-0"><span class="ff1 text-muted">n:</span> +4917689223789</p>
           </div>                               
         </div>
       </div>
