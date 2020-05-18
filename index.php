@@ -64,12 +64,12 @@
       <div class="row">
         <div class="col-lg-2"><span class="badge badge-danger">Technologies</span></div>
         <div class="col-lg-10">
-          <p class="fs14 mb-0">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autoscaling, RDS, Route53, S3, CloudFront, VPC, EFS, SES.</p>
+          <p class="fs14 mb-0">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autoscaling, ECS, RDS, Redshift, Route53, S3, CloudFront, VPC, EFS, SES.</p>
           <p class="fs14 mb-0">Apache, Nginx, Varnish, IIS, HHVM, NodeJS, Passenger, Unicorn, HAproxy, Pound, Memcached, PHP-fpm, PHP7.</p>
-          <p class="fs14 mb-0">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit.</p>
+          <p class="fs14 mb-0">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit, DataDog.</p>
           <p class="fs14 mb-0">MySQL, MariaDB, Mysql Percona, MongoDB, PostgreSQL.</p>
           <p class="fs14 mb-0">OpenSSH, MySecureShell, proftpd, Shorewall, OpenVPN, L2TP/IPSec, Postfix, Rsnapshot, PagerDuty, Duplicity.</p>
-          <p class="fs14 mb-0">Vmware ESX Server 4.1, Dockers, Vagrant, SharePoint, WSS 3.0.</p>
+          <p class="fs14 mb-0">Vmware ESX Server 4.1, Dockers, Kubernetes, Vagrant, SharePoint, WSS 3.0.</p>
         </div>
       </div>
       <div class="row">
@@ -93,7 +93,6 @@
       <div class="row">
         <div class="col-12">
          <ul class="fs14 mb-5">
-           <li>Assumed ownership of the Infrastructure team and platform.</li>
            <li>Assumed ownership of the Infrastructure team and platform.</li>
            <li>Introduced and enforced process/structure to the team (Jira Workflow, RCA’s etc).</li>
            <li>Supervised, architect, and took part in implementing technologies and platforms supporting a complex internal application.</li>
