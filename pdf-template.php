@@ -41,12 +41,12 @@
     <tr>
       <td style="width:30%; padding:2px; vertical-align:top;"><span class="badge"> Technologies </span></td>
       <td style="width:70%; padding:2px;">
-        <p class="para1">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autoscaling, RDS, Route53, S3, CloudFront, VPC, EFS, SES.</p>
+        <p class="para1">Digital Ocean, GCE, Vultr, Elastic Host, Linode, Heroku, EngineYard, AWS: EC2, ELB, Autoscaling, ECS, RDS, Redshift, Route53, S3, CloudFront, VPC, EFS, SES.</p>
         <p class="para1">Apache, Nginx, Varnish, IIS, HHVM, NodeJS, Passenger, Unicorn, HAproxy, Pound, Memcached, PHP-fpm, PHP7.</p>
-        <p class="para1">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit.</p>
+        <p class="para1">Ansible, Puppet, Terraform, Mcollective, RabbitMQ, Redis, Telegraf, Sensu, Prometheus, Graphite, Grafana, Zabbix, New Relic, Icinga, Monit, DataDog.</p>
         <p class="para1">MySQL, MariaDB, Mysql Percona, MongoDB, PostgreSQL.</p>
         <p class="para1">OpenSSH, MySecureShell, proftpd, Shorewall, OpenVPN, L2TP/IPSec, Postfix, Rsnapshot, PagerDuty, Duplicity.</p>
-        <p class="para1">Vmware ESX Server 4.1, Dockers, Vagrant, SharePoint, WSS 3.0.</p>
+        <p class="para1">Vmware ESX Server 4.1, Dockers, Kubernetes, Vagrant, SharePoint, WSS 3.0.</p>
       </td>
     </tr>
     <tr>
@@ -66,11 +66,20 @@
     </tr>
     <tr>
       <td colspan="2" style="width:100%;">
-        <ul class="list1">
-           <li>Building Structure and Process around the Team</li>
-           <li>Creating and Aligning Team's OKR with the Company</li>
-           <li>Analyzing and Improving Infrastructure and Automation</li>
-           <li>Providing Support to Internal Teams and Products</li>
+        <ul class="list1">          
+           <li>Assumed ownership of the Infrastructure team and platform.</li>
+           <li>Introduced and enforced process/structure to the team (Jira Workflow, RCA’s etc).</li>
+           <li>Supervised, architect, and took part in implementing technologies and platforms supporting a complex internal application.</li>
+           <li>Developed and tracked the team’s performance through the KPIs and OKRs that were set in the internal meetings.</li>
+           <li>Helped develop a roadmap to develop and evolve the infrastructure as per the current and future demands of the business.</li>
+           <li>Cut costs by 40% by optimizing infrastructure (AWS) and 3rd Party monitoring tool (DataDog).</li>
+           <li>Maintained repositories for DevOps environment: automation code and configuration.</li>
+           <li>Troubleshoot and remediate issues that were affecting the operation of the application and infrastructure (AWS ECS, AWS RDS, AWS Redshift etc).</li>
+           <li>Achieved 92% in the internal team’s happiness survey.</li>
+           <li>Developed and Improved automation (Ansible) and supporting multiple environments which included production, staging, and QA.</li>
+           <li>Developed and Improved Monitoring, using DataDog and Python (Lambda functions).</li>
+           <li>Worked on AWS RDS to AWS Redshift replication using AWS DMS.</li>
+           <li>Provided Support to Internal Teams and Products.</li>    
         </ul>
       </td>
     </tr>    
