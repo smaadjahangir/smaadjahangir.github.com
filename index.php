@@ -93,10 +93,20 @@
       <div class="row">
         <div class="col-12">
          <ul class="fs14 mb-5">
-           <li>Building Structure and Process around the Team</li>
-           <li>Creating and Aligning Team's OKR with the Company</li>
-           <li>Analyzing and Improving Infrastructure and Automation</li>
-           <li>Providing Support to Internal Teams and Products</li>
+           <li>Assumed ownership of the Infrastructure team and platform.</li>
+           <li>Assumed ownership of the Infrastructure team and platform.</li>
+           <li>Introduced and enforced process/structure to the team (Jira Workflow, RCA’s etc).</li>
+           <li>Supervised, architect, and took part in implementing technologies and platforms supporting a complex internal application.</li>
+           <li>Developed and tracked the team’s performance through the KPIs and OKRs that were set in the internal meetings.</li>
+           <li>Helped develop a roadmap to develop and evolve the infrastructure as per the current and future demands of the business.</li>
+           <li>Cut costs by 40% by optimizing infrastructure (AWS) and 3rd Party monitoring tool (DataDog).</li>
+           <li>Maintained repositories for DevOps environment: automation code and configuration.</li>
+           <li>Troubleshoot and remediate issues that were affecting the operation of the application and infrastructure (AWS ECS, AWS RDS, AWS Redshift etc).</li>
+           <li>Achieved 92% in the internal team’s happiness survey.</li>
+           <li>Developed and Improved automation (Ansible) and supporting multiple environments which included production, staging, and QA.</li>
+           <li>Developed and Improved Monitoring, using DataDog and Python (Lambda functions).</li>
+           <li>Worked on AWS RDS to AWS Redshift replication using AWS DMS.</li>
+           <li>Provided Support to Internal Teams and Products.</li>    
            </li>
           </ul>
         </div>
