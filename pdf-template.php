@@ -79,19 +79,11 @@
            <li>Developed and Improved automation (Ansible) and supporting multiple environments which included production, staging, and QA.</li>
            <li>Developed and Improved Monitoring, using DataDog and Python (Lambda functions).</li>
            <li>Worked on AWS RDS to AWS Redshift replication using AWS DMS.</li>
-           <li>Provided Support to Internal Teams and Products.</li>    
+           <li style="padding-bottom:70px;">Provided Support to Internal Teams and Products.</li>    
         </ul>
       </td>
     </tr>
-    
-    
-    
-    
-    
-    
-    
-    
-    
+
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Software Engineering Manager</h4>
