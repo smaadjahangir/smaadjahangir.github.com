@@ -83,7 +83,15 @@
         </ul>
       </td>
     </tr>
-    echo "<br>";
+    
+    
+    
+    
+    
+    
+    
+    
+    
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Software Engineering Manager</h4>
