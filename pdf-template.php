@@ -164,7 +164,7 @@
           <li>Creating Ruby scripts for Sensu checks and Graphite.</li>
           <li>Used GIT for version controlling.</li>
           <li>Creating bash scripts to automate various tasks.</li>
-          <li>Did brief research on Dockers and its usability against Cloudways Platform.</li>
+          <li style="padding-bottom:70px;">Did brief research on Dockers and its usability against Cloudways Platform.</li>
         </ul>
       </td>
     </tr>
