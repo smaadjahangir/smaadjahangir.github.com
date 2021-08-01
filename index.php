@@ -79,6 +79,39 @@
         </div>
       </div>
       <h3 class="pt-5 pb-3">Professional Experience</h3> 
+
+      <div class="row">
+        <div class="col-lg-10">
+          <h5>Senior Infrastructure Engineer</h5>
+          <p class="fs14"><a href="https://www.finiata.com/" target="_blank">Finiata</a>, Berlin, Germany<br>
+          <span class=" text-muted">Financial Services</span>
+          </p>
+        </div>
+        <div class="col-lg-2">
+          <div class="text-lg-right"><span class="badge badge-info">June 2020 - Present</span></div>
+        </div>
+      </div>
+      <div class="row">
+        <div class="col-12">
+         <ul class="fs14 mb-5">
+           <li>Took over pending projects from an ex-team member in a short period of time.</li>
+           <li>Migration of Backend Application (Rail) from Heroku to AWS ECS (fargate).</li>
+           <li>Enhance the Automation with the help of terraform.</li>
+           <li>Accommodating developers requirements of features on AWS (fargate console, schedule deployment etc).</li>
+           <li>Build and maintain monitoring on datadog.</li>
+           <li>Worked on the Security aspect of infrastructure.</li>
+           <li>Building multiple deployment processes, different for each environment.</li>
+           <li>Atlantis, for production deployment (Github).</li>
+           <li>Slack bot, with the combination of Lambda and Github action, is used for deployment on the staging environment.</li>
+           <li>Developed the on-boarding/off-boarding process.</li>
+           <li>Developed and Improved Monitoring, using DataDog and Python (Lambda functions).</li>
+           <li>Worked on AWS RDS to AWS Redshift replication using AWS DMS.</li>
+           <li>Setup Okta (SSO) with different applications.</li>
+           </li>
+          </ul>
+        </div>
+      </div>
+
       <div class="row">
         <div class="col-lg-10">
           <h5>Senior Infrastructure Engineer</h5>
@@ -87,7 +120,7 @@
           </p>
         </div>
         <div class="col-lg-2">
-          <div class="text-lg-right"><span class="badge badge-info">Aug 2019 - Present</span></div>
+          <div class="text-lg-right"><span class="badge badge-info">Aug 2019 - May 2020</span></div>
         </div>  
       </div>
       <div class="row">

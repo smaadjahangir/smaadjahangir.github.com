@@ -59,10 +59,38 @@
     <tr>
       <td style="width:70%;">
         <h4 style="line-height:20px; margin:0px;">Senior Infrastructure Engineer</h4>
+        <p class="para1">Finiata, Berlin, Germany<br>
+        <span class="fc1">Financial Services</span></p>
+      </td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> June 2020 - Present </span></td>
+    </tr>
+    <tr>
+      <td colspan="2" style="width:100%;">
+        <ul class="list1">
+           <li>Took over pending projects from an ex-team member in a short period of time.</li>
+           <li>Migration of Backend Application (Rail) from Heroku to AWS ECS (fargate).</li>
+           <li>Enhance the Automation with the help of terraform.</li>
+           <li>Accommodating developers requirements of features on AWS (fargate console, schedule deployment etc).</li>
+           <li>Build and maintain monitoring on datadog.</li>
+           <li>Worked on the Security aspect of infrastructure.</li>
+           <li>Building multiple deployment processes, different for each environment.</li>
+           <li>Atlantis, for production deployment (Github).</li>
+           <li>Slack bot, with the combination of Lambda and Github action, is used for deployment on the staging environment.</li>
+           <li>Developed the on-boarding/off-boarding process.</li>
+           <li>Developed and Improved Monitoring, using DataDog and Python (Lambda functions).</li>
+           <li>Worked on AWS RDS to AWS Redshift replication using AWS DMS.</li>
+           <li>Setup Okta (SSO) with different applications.</li>
+        </ul>
+      </td>
+    </tr>
+
+    <tr>
+      <td style="width:70%;">
+        <h4 style="line-height:20px; margin:0px;">Senior Infrastructure Engineer</h4>
         <p class="para1">HeyJobs, Berlin, Germany<br>
         <span class="fc1">Internet</span></p>
       </td>
-      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Aug 2019 - Present </span></td>
+      <td style="width:30%; vertical-align:top; text-align:right;"><span class="badge2"> Aug 2019 - May 2020 </span></td>
     </tr>
     <tr>
       <td colspan="2" style="width:100%;">
